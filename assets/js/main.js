@@ -1,6 +1,6 @@
 // Obtención de fuente origianl
 
-var feedURL = 'https://www.incibe.es/empresas/avisos/feed';
+var feedURL = 'https://www.incibe.es/index.php/incibe-cert/alerta-temprana/avisos/feed';
 
 // Cargamos los datos del feed facilitado y comprobamos si ha funcionado o no.
 
